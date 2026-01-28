@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=F79AD3&center=true&vCenter=true&width=500&lines=Hello,+I’m+Vaishnavi+L" />
+<p align="center" style="font-size:28px; color:blue">
+  ʜᴇʟʟᴏ, ɪ’ᴍ ᴠᴀɪsʜɴᴀᴠɪ ʟ
 </p>
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/>
  </abc>
