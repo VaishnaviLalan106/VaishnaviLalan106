@@ -1,4 +1,4 @@
-<p align="center" style="color:#8EC5FC; font-size:50px; font-weight:bold;">
+<p align="center" style="color:#8EC5FC; font-size:100px; font-weight:bold;">
   Hello! I am Vaishnavi L
 </p>
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/>
