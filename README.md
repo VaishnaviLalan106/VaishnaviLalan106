@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F79AD3&center=true&vCenter=true&width=600&lines=Building+Beautiful+Logic-Based+Apps;Python+GUI+Developer;Learning+Something+New+Every+Day" />
 </p>
 
----
 
 ## 🌸 About Me
 
@@ -16,7 +15,7 @@
 
 I love turning **simple ideas into interactive applications** while deeply understanding *how and why* things work.
 
----
+
 
 ## ✨ What Makes Me Stand Out
 
@@ -25,7 +24,7 @@ I love turning **simple ideas into interactive applications** while deeply under
 - Eye for clean & user-friendly UI  
 - Step-by-step, detail-oriented developer  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -33,7 +32,7 @@ I love turning **simple ideas into interactive applications** while deeply under
   <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode" />
 </p>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -44,7 +43,6 @@ I love turning **simple ideas into interactive applications** while deeply under
 
 📌 *Each project focuses on logic, validation, and visual clarity.*
 
----
 
 ## 📊 GitHub Stats & Score
 
@@ -56,7 +54,7 @@ I love turning **simple ideas into interactive applications** while deeply under
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaishnaviLalan106&theme=rose_pine" />
 </p>
----
+
 
 ## 🐍 Contribution Animation
 
@@ -64,7 +62,7 @@ I love turning **simple ideas into interactive applications** while deeply under
   <img src="https://github.com/VaishnaviLalan106/VaishnaviLalan106/blob/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
----
+
 
 ## 🌱 Currently Learning
 
@@ -73,7 +71,7 @@ I love turning **simple ideas into interactive applications** while deeply under
 📌 Object-Oriented Design  
 📌 Writing production-level code  
 
----
+
 
 ## 📫 Let’s Connect
 <p align="center">
@@ -81,10 +79,8 @@ I love turning **simple ideas into interactive applications** while deeply under
     <img src="https://img.shields.io/badge/LinkedIn-E6A8D7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-**Email:** [vaishnavilalan@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=vaishnavilalan@gmail.com)
+**Email:** <a href="mailto:vaishnavilalan@gmail.com">vaishnavilalan@gmail.com</a>
 
-
----
 
 <p align="center">
 ✨ *Code with curiosity. Build with passion.* ✨
