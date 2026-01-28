@@ -56,15 +56,6 @@ I love turning **simple ideas into interactive applications** while deeply under
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaishnaviLalan106&theme=rose_pine" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VaishnaviLalan106&theme=dracula&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
 ---
 
 ## 🐍 Contribution Animation
