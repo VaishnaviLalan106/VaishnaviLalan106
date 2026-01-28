@@ -1,4 +1,6 @@
-<p align="center"><a href="https://VaishnaviLalan106.github.io"><img width="80%" alt="Hello, I am Vaishnavi L" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=F79AD3&center=true&vCenter=true&width=500&lines=Hello,+I’m+Vaishnavi+L" />
+</p>
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/>
  </abc>
 </h2> 
