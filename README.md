@@ -70,7 +70,7 @@ I love turning **simple ideas into interactive applications** while deeply under
 ## 🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://github.com/VaishnaviLalan106/VaishnaviLalan106/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/VaishnaviLalan106/VaishnaviLalan106/blob/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ---
