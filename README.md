@@ -77,7 +77,7 @@ I love turning **simple ideas into interactive applications** while deeply under
 
 ## 📫 Let’s Connect
 <p align="center">
-  <a href="mailto:vaishnavilalan@gmail.com">
+  <a href="<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vaishnavilalan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-F79AD3?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/vaishnavi-lalan-270419310" target="_blank">
