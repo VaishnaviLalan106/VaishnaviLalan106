@@ -1,9 +1,6 @@
-<h2 align="left">
- <abc>
-  <br>Hi there!<br> 
-<br>
-  <br> I am Vaishnavi L<br>
-  <br>
+<div align="center" width="50">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello! <br> I Am Vaishnavi L <br>" width="60%"/>
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/>
  </abc>
 </h2> 
