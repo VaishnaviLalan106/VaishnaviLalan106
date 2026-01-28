@@ -1,4 +1,4 @@
-<p align="center" style="font-size:28px; color:blue">
+<p align="center" style="color:#8EC5FC; font-size:50px; font-weight:bold;">
   ʜᴇʟʟᴏ, ɪ’ᴍ ᴠᴀɪsʜɴᴀᴠɪ ʟ
 </p>
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/>
