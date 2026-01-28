@@ -1,7 +1,8 @@
 <h2 align="center" style="color:#8EC5FC; font-size:100px; font-weight:bold;">
   Hello! I am Vaishnavi L
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/>
-</h2> 
+</h2>
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%" align="center"/>
+
 <h3 align="center">Software Developer | Python & Java | CS Student</h3>
 
 <p align="center">
