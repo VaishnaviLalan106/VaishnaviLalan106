@@ -79,7 +79,8 @@ I love turning **simple ideas into interactive applications** while deeply under
     <img src="https://img.shields.io/badge/LinkedIn-E6A8D7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-**Email:** <a href="mailto:vaishnavilalan@gmail.com">vaishnavilalan@gmail.com</a>
+
+      Email:<a href="mailto:vaishnavilalan@gmail.com">vaishnavilalan@gmail.com</a>
 
 
 <p align="center">
