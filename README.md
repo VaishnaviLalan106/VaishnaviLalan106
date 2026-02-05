@@ -50,9 +50,10 @@ I love turning **simple ideas into interactive applications** while deeply under
 
 ## 📊 GitHub Stats & Score
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaishnaviLalan106&show_icons=true&theme=rose_pine" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviLalan106&theme=rose_pine" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VaishnaviLalan106&show_icons=true&theme=rose_pine" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=VaishnaviLalan106&theme=rose_pine" width="48%" />
 </p>
 
 <p align="center">
