@@ -71,12 +71,12 @@ I enjoy turning **simple ideas into interactive applications** while understandi
 
 📌 Python  
 📌 GUI Animations  
-📌 Object-Oriented Design  
-📌 Writing production-level code 
+📌 Object-Oriented Design   
 📌 Machine Learning
 📌 Data Structures and Algorithms
 📌 Cloud Computing and Computer Network
-
+📌 FastAPI and backend development
+📌 AI / Machine Learning fundamentals
 
 
 ## 📫 Let’s Connect
