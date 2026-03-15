@@ -9,55 +9,54 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=F79AD3&center=true&vCenter=true&width=600&lines=Building+Beautiful+Logic-Based+Apps;Python+GUI+Developer;Learning+Something+New+Every+Day" />
 </p>
 
-
 ## 🌸 About Me
 
-- **3rd Year Computer Science Student (2027)**  
-- **Software Development Intern @ Prodigy Infotech(1 month)**  
-- Passionate about **problem solving, GUI design, and clean code**  
-- I believe *good UI + strong logic = great software*
+- **3rd Year Computer Science Student (Graduating 2027)**
+- **Software Development Intern @ Prodigy Infotech**
+- Passionate about **problem solving, GUI design, and clean code**
+- Interested in building **Python applications, simple web projects, and AI experiments**
 
-I love turning **simple ideas into interactive applications** while deeply understanding *how and why* things work.
-
-
+I enjoy turning **simple ideas into interactive applications** while understanding *how and why things work behind the scenes*.
 
 ## ✨ What Makes Me Stand Out
 
- -**Strong fundamentals in Python & OOP**  
-- Focus on *learning*, not just completing tasks  
-- Eye for clean & user-friendly UI  
-- Step-by-step, detail-oriented developer  
-
+- **Strong fundamentals in Python & Object-Oriented Programming**
+- Focus on *learning concepts deeply*, not just completing tasks
+- Experience building **GUI apps, AI experiments, and simple web interfaces**
+- Eye for clean and user-friendly UI
+- Step-by-step, detail-oriented developer
 
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,flask,fastapi,pytorch,git,github,vscode" />
 </p>
-
 
 
 ## 🚀 Featured Projects
 
--**Temperature Converter (GUI)**  
--**Number Guessing Game**  
--**Sudoku Solver with GUI & Animations**  
--**Contact Management System**  
+- **AI Placement Prep & Skill Gap Analyzer (PrepNova)** – AI-based system that analyzes user skills and suggests interview preparation topics.
+- **AI Recipe Generator** – Generates recipes using AI including ingredients, preparation steps, time, and difficulty level.
+- **Bottle Detection Model** – Computer vision model to detect bottles using deep learning.
+- **Sudoku Solver (GUI + Animations)** – Python Tkinter application that visually solves Sudoku puzzles step-by-step.
+- **Contact Management System (GUI)** – Desktop application to add, search, update, and delete contacts.
+- **Random Password Generator** – Implemented using Python (CLI) and HTML/CSS/JavaScript.
+- **My Portfolio Website** – Personal portfolio built with HTML, CSS, and JavaScript.
 
-📌 *Each project focuses on logic, validation, and visual clarity.*
+📌 *These projects focus on problem-solving, AI experimentation, programming logic, and building simple user interfaces.*
 
 
-## 📊 GitHub Stats & Score
-
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VaishnaviLalan106&show_icons=true&theme=rose_pine" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=VaishnaviLalan106&theme=rose_pine" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VaishnaviLalan106&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=VaishnaviLalan106&theme=rose_pine&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaishnaviLalan106&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviLalan106&layout=compact&theme=rose_pine&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VaishnaviLalan106&theme=rose_pine" width="48%" />
 </p>
 
 
@@ -68,13 +67,15 @@ I love turning **simple ideas into interactive applications** while deeply under
 </p>
 
 
-
 ## 🌱 Currently Learning
 
-📌 Advanced Python  
+📌 Python  
 📌 GUI Animations  
 📌 Object-Oriented Design  
-📌 Writing production-level code  
+📌 Writing production-level code 
+📌 Machine Learning
+📌 Data Structures and Algorithms
+📌 Cloud Computing and Computer Network
 
 
 
